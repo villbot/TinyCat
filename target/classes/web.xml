@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<web-app>
+    <servlet>
+        <servlet-name>TinyCat</servlet-name>
+        <servlet-class>com.elgchat.server.ElgchatServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>TinyCat</servlet-name>
+        <url-pattern>/tiny</url-pattern>
+    </servlet-mapping>
+</web-app>
