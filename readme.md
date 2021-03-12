@@ -6,7 +6,7 @@
 
 那具体的功能有哪些呢？
 1. 提供服务，接受请求（TCP/IP，即socket通信）
-2. 请求、相应封装相应的request、response对象
+2. 请求、响应封装相应的request、response对象
 3. 客户端请求资源：资源分为静态（html）和动态资源（servlet）
 4. 资源返回给客户端浏览器
 
